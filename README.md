@@ -3,9 +3,9 @@
 I'm a passionate Python programmer and a student currently exploring the world of software development. I love solving problems and building projects that make a difference. I am currenty studying in UPES DEHRADUN and pursuing BTECH CSE.
 
 ---
-### Iamge
+### Image
 
- width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/dc80c9a7-6107-4568-b265-b6c859483df2" />
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.upes.ac.in%2Fabout-us&psig=AOvVaw1LRjA-tWZ7BkA9iPQsbmKx&ust=1753942763120000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDz06D4444DFQAAAAAdAAAAABAE![Uploading image.png…]()
 
 ---
 
