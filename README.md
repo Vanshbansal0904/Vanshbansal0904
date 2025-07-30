@@ -17,7 +17,8 @@ I'm a passionate Python programmer and a student currently exploring the world o
 -
 - Vanshbansal0904@gmail.com
 
--  ⚡HOBBY
--
+-  ⚡INTERESTS
+
+-   ARTIFICIAL INTELLIGENCE
 -   SOLVING MATHS PUZZLES
 -->
